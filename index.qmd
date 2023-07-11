@@ -12,10 +12,6 @@ This webpage contains guideline on how to conduct a final project for Math 201.
 
 ## Type 1: Linear Model Projects
 
-
-
--------
-
 ## Type 2: Hypothesis Testing Projects
  
 7. Refer to the data description in the file `HDD2015-18cy6-20-19.docx`, which variable recording the month of admission?, which variable recording the month of discharge?
