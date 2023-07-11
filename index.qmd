@@ -1,14 +1,11 @@
-
 ---
-output:
-  html_document:
+title: "Math 201 - Final Project"
+format: 
+  html:
     toc: true
-    toc_float: true
-    theme: united
-title: "Math 201 - Final Projects Guideline"
+editor: visual
 ---
 
----
 
 This webpage contains guideline on how to conduct a final project for Math 201. 
 
