@@ -1,0 +1,100 @@
+
+---
+title: "One-sample and Two-sample Tests"
+output:
+  html_document:
+    toc: yes
+    toc_float: yes
+    theme: united
+  word_document:
+    toc: yes
+  pdf_document:
+    toc: yes
+---
+
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE, warning = FALSE, message = FALSE)
+```
+
+## 1. Step-by-step Guide
+
+**Step 1**: Form your groups of no more than three members. 
+
+**Step 2**: Choose a variable/quantity about Bryant class of 2026 of your interested. For example: The number of hours a freshman studied per week. 
+
+**Step 3**: Form three hypotheses on the variable/quantity
+
+- *Hypothesis 1*: One-sample hypothesis (Comparing the variable with a number).  For example: The number of hours a freshman studied per week is greater than 10
+
+- *Hypothesis 2*: Two-sample hypothesis (Comparing two groups in terms of the variable/quantity).  For example: We first group freshman into two groups:
+
+  - Group 1: those who involved in more than three clubs and
+  - Group 2: those who involved in less than or three clubs. 
+  
+So a hypothesis could be: Those who involved in less than or three clubs study more hours than those who involved in more than thee clubs. 
+
+- *Hypothesis 3*:  Two sample hypothesis (Comparing the difference of two groups in terms of the variable/quantity). For example, we can first group freshman into two groups:
+
+  - Group 1: Finance Majors.  
+  - Group 2: Non-finance majors. 
+
+Then we can form a hypothesis 3: Non-finance majors study one hour (or 2 hours, 3 hours... depending our your belief) per week fewer than finance majors. 
+
+**Step 4**: Design a survey to collect data.  You will need at least three questions: One question for the variable, one question to break the data for hypothesis 2 and one question to break the data for hypothesis 3. 
+
+For example, a survey for the above three hypotheses should have the below three questions:
+
+- Q1: How many hours do you study a week?
+- Q2: Are you participating in more than three clubs? (Yes/No)
+- Q3: Are you a finance major? (Yes/No)
+
+Use Qualtrics to design the survey. 
+
+**Step 5**: Post the link of the Qualtrics survey to Canvas Announcements "List of Survey Links for Project 1" by March 23. 
+
+**Step 6**: Answer all the surveys on the announcement "Take ALL the following surveys (Project 1)" on March 28 in class. 
+
+**Step 7**:  Your full data should be available on March 29. Download the data. Open with Excel.  Copy three columns to Minitab. Create visualization and calculate p-values of the three tests. 
+
+**Step 8**. Make a poster using the below template. 
+
+- [Sample Poster](sample_poster.pptx), [pdf](sample_poster.pdf)
+
+## 2. Submission
+
+Submit the follows to Canvas.
+
+- The Poster
+
+- The Dataset
+
+- Minitab screenshots of p-values of the three tests. 
+
+The deadline for all submission is April 4. 
+
+## 3. Grading
+
+- Eighty percent (80%) of the grade will be based on completion of the submission
+
+- Twenty percent (20%) of the grade will be based on the quality of the hypotheses and the result.  A result that is useful (for Bryant freshman) will be considered a quality result. 
+
+- Five percent extra credits will be given for groups using different poster style.  Some templates can be found at the link below. 
+
+  - [Scientific Poster PowerPoint Templates](https://www.posternerd.com/sciposters-templates?signs_redirect)
+  
+  - [40 Eye-Catching Research Poster Templates](https://templatelab.com/research-posters/)
+
+- Five percent extra credits will be given for groups obtaining all small p-values (smaller than or equal to 5%) and quality results. 
+
+## 4. Resources
+
+[Minitab](https://app.minitab.com/)
+
+[Qualtrics](https://bryant.yul1.qualtrics.com/login)
+
+[Visualization with Minitab](https://bryant.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=bcde499a-334c-4a48-905e-afd50135c2b4)
+
+[Hypothesis Testing with Minitab](https://bryant.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=64f20c53-6d01-460c-b773-afd50135d04d)
+

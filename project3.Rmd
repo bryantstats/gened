@@ -1,0 +1,56 @@
+
+---
+title: "Linear Model Project"
+output:
+  html_document:
+    toc: yes
+    toc_float: yes
+    theme: united
+  word_document:
+    toc: yes
+  pdf_document:
+    toc: yes
+---
+
+---
+
+```{r setup, include=FALSE, message=FALSE, echo=FALSE}
+knitr::opts_chunk$set(echo = TRUE, warning = FALSE, message = FALSE)
+```
+
+
+## Data Collection
+
+Create a survey to collect data for this part. Your survey data should have three variables: 
+
+- One continuous/quantitative variable which will be your dependent/output variable. For example: the GPA of a freshman
+
+- One continuous/quantitative variable which will be your independent/input variable. For example: the number of hours a freshman study per week.  
+
+- One binary variable which will be your independent/input variable. For example: gender of the freshman.
+
+Example: You can regress GPA on hours of study and gender from the data.
+
+You should post the survey to Canvas' announcement "Survey Link for Final Project" by Tuesday April 25. Once you have the data do the follows. All surveys will be completed in class on Thursday, April 27. 
+
+
+## Part 3. Presentation
+
+1. State your independent variable and your dependent variables. 
+
+2. Let $y$ be your dependent variable, $x_1$ be your quantitative independent variable and $x_2$ be your binary independent variable. Write the equation of the best fitted line when regressing $y$ on $x_1$. How much variance of $y$ can be explained by $x_1$?  Give an example of predicting $y$ given a value of $x_1$. Insert the Minitab screenshots to support your answers.
+
+3. Write the equations of the best fitted line when regressing $y$ on $x_1$ and $x_2$. How much variance of $y$ can be explained by $x_1$ and $x_2$? Insert the Minitab screenshots to support your answers. Is this model better than the model in 2?  Give an example of predicting $y$ given a value of $x_1$ and $x_2$. 
+
+4. Give at least 3 plots to visualize your data.  Give your comments on each plots. 
+
+
+
+```{r, eval=FALSE, echo=FALSE}
+library(tidyverse)
+library(readxl)
+d <- read_excel('project3_sol.xlsx', sheet = "Sheet2")
+print(paste('Correlation: ',cor(d$Years_Experience, d$Salary)))
+summary(lm(Salary ~ Years_Experience, data = d))
+```
+
