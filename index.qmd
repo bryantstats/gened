@@ -6,13 +6,17 @@ format:
 editor: visual
 ---
 
-This webpage contains guideline on how to conduct a final project for Math 201.
+This webpage contains examples and guideline on conducting a final project for Math 201.
 
 ## Some Examples
 
 [Linear Model Project](project3.html)
 
 [Hypothesis Testing Project](project1.html)
+
+Working with the happiness data
+
+Working with Bryant's sport team data
 
 ## Data 
 

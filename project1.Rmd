@@ -94,7 +94,7 @@ The deadline for all submission is April 4.
 
 [Qualtrics](https://bryant.yul1.qualtrics.com/login)
 
-[Visualization with Minitab](https://bryant.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=bcde499a-334c-4a48-905e-afd50135c2b4)
+[Visualization with Minitab]()
 
-[Hypothesis Testing with Minitab](https://bryant.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=64f20c53-6d01-460c-b773-afd50135d04d)
+[Hypothesis Testing with Minitab]()
 
