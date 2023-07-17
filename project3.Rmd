@@ -79,5 +79,7 @@ Address your research question using the result of the linear model.  Discuss th
 
 ## 4. Presentation
 
-- Present your project with your group in the final exam day. The presentation should be a good visual summary of the report. 
+- Present your project with your group in the final exam day. 
+
+- The presentation should be a good visual summary of the report. 
 
