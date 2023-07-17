@@ -18,11 +18,25 @@ output:
 knitr::opts_chunk$set(echo = TRUE, warning = FALSE, message = FALSE)
 ```
 
-In this project, we will practice building linear models to answer research questions. The population of the research is current freshman at Bryant University. 
+In this project, we will practice building linear models to answer research questions. The population of the research is current freshman at Bryant University.  We will use Qualtrics to collect data and Minitab for the statistical analysis. 
 
-## Data Collection
+## 1. Research Questions
 
-Create a survey to collect data for this part. Your survey data should have three variables: 
+Your research question should address at least three variables: a continuous response variable, a continuous predictor and a binary predictor. Here are some examples
+
+- Is there a linear relation between the GPA and the number of hour studied of a freshman?  How the relation change between business major and non-business major?
+
+- Is there a linear relation between sleeping hours and the screen time of a freshman?  How the relation change between gender?
+
+We then will collect data and use linear model to address the research question. 
+
+## 2. Data Collection
+
+Use Qualtrics to create a survey to collect data. 
+
+You should post the survey to Canvas' announcement "Survey Link for Final Project" by Tuesday April 25. Once you have the data do the follows. All surveys will be completed in class on Thursday, April 27. 
+
+Your survey data should have at least one of the three below variables: 
 
 - One continuous/quantitative variable which will be your dependent/output variable. For example: the GPA of a freshman
 
@@ -32,26 +46,38 @@ Create a survey to collect data for this part. Your survey data should have thre
 
 Example: You can regress GPA on hours of study and gender from the data.
 
-You should post the survey to Canvas' announcement "Survey Link for Final Project" by Tuesday April 25. Once you have the data do the follows. All surveys will be completed in class on Thursday, April 27. 
+## 3. Report
+
+Write a report following the below structure
+
+#### Introduction
+
+- Introduce your research questions.  
+
+- Describe your survey
+
+- Describe your survey data: the sample size, the missing values
+
+#### Descritive Statistics
+
+- Give descriptive statistics of the variables in the data
+
+- Visualize the data using scatter plots, boxplot, histogram and bar plot.  Give comments to each plot
+
+#### Model Analysis
+
+Let $y$ be your dependent variable, $x_1$ be your quantitative independent variable and $x_2$ be your binary independent variable. 
+
+1. Write the equation of the best fitted line when regressing $y$ on $x_1$. How much variance of $y$ can be explained by $x_1$?  Give an example of predicting $y$ given a value of $x_1$. Insert the Minitab screenshots to support your answers.
+
+2. Write the equations of the best fitted line when regressing $y$ on $x_1$ and $x_2$. How much variance of $y$ can be explained by $x_1$ and $x_2$? Insert the Minitab screenshots to support your answers. Is this model better than the model in 2?  Give an example of predicting $y$ given a value of $x_1$ and $x_2$. 
+
+#### Conclusion
+
+Address your research question using the result of the linear model.  Discuss the limitation of the research and your future study to expand this research topic. 
 
 
-## Part 3. Presentation
+## 4. Presentation
 
-1. State your independent variable and your dependent variables. 
-
-2. Let $y$ be your dependent variable, $x_1$ be your quantitative independent variable and $x_2$ be your binary independent variable. Write the equation of the best fitted line when regressing $y$ on $x_1$. How much variance of $y$ can be explained by $x_1$?  Give an example of predicting $y$ given a value of $x_1$. Insert the Minitab screenshots to support your answers.
-
-3. Write the equations of the best fitted line when regressing $y$ on $x_1$ and $x_2$. How much variance of $y$ can be explained by $x_1$ and $x_2$? Insert the Minitab screenshots to support your answers. Is this model better than the model in 2?  Give an example of predicting $y$ given a value of $x_1$ and $x_2$. 
-
-4. Give at least 3 plots to visualize your data.  Give your comments on each plots. 
-
-
-
-```{r, eval=FALSE, echo=FALSE}
-library(tidyverse)
-library(readxl)
-d <- read_excel('project3_sol.xlsx', sheet = "Sheet2")
-print(paste('Correlation: ',cor(d$Years_Experience, d$Salary)))
-summary(lm(Salary ~ Years_Experience, data = d))
-```
+- Present your project with your group in the final exam day. The presentation should be a good visual summary of the report. 
 
