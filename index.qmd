@@ -10,8 +10,10 @@ This webpage contains guideline on how to conduct a final project for Math 201.
 
 ## Some Examples
 
-[Hypothesis Testing Project](project1.html)
-
 [Linear Model Project](project3.html)
 
-## Data
+[Hypothesis Testing Project](project1.html)
+
+## Data 
+
+
