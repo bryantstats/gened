@@ -18,6 +18,12 @@ Working with the happiness data
 
 Working with Bryant's sport team data
 
-## Data 
+## Data
 
+## Q&A
 
+1. Is it required to use Excel for the statistical analysis the course? 
+
+    - *We are encouraged to use more Excel on the Gen-ed Math classes. Using Excel in both M110 and M201 will help the student consistently learn and strength their Excel skills.*
+
+2. 
