@@ -18,6 +18,7 @@ output:
 knitr::opts_chunk$set(echo = TRUE, warning = FALSE, message = FALSE)
 ```
 
+In this project, we will practice building linear models to answer research questions. The population of the research is current freshman at Bryant University. 
 
 ## Data Collection
 
