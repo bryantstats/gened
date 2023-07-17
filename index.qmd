@@ -6,7 +6,9 @@ format:
 editor: visual
 ---
 
-This webpage contains examples and guideline on conducting a final project for Math 201.
+The new development is M201 is to address two goals: (1) [The UN sustainability goals](gen_ed.pdf) and (2) [Bryant 2030's vision skill and learning goals](gen_ed.pdf). We believe that having the student working on a statistical project will satisfy these new requirement. 
+
+This webpage contains examples and guideline on conducting a final project for Math 201. 
 
 ## Some Examples
 
@@ -24,6 +26,6 @@ Working with Bryant's sport team data
 
 1. Is it required to use Excel for the statistical analysis the course? 
 
-    - *We are encouraged to use more Excel on the Gen-ed Math classes. Using Excel in both M110 and M201 will help the student consistently learn and strength their Excel skills.*
+    - *We are encouraged to use more Excel on the Gen-ed Math classes. Using Excel in both M110 and M201 will help the student consistently learn and strengthen their Excel skills.*
 
-2. 
+
