@@ -10,7 +10,9 @@ The new development is M201 is to address two goals: (1) The UN sustainability g
 
 This webpage contains examples and guideline on conducting a final project for Math 201.
 
-## Some Examples
+## Project Structure
+
+## Examples
 
 [Linear Model Project](project3.html)
 
