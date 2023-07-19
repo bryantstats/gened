@@ -10,9 +10,9 @@ The new development is M201 is to address two goals: (1) The UN sustainability g
 
 This webpage contains examples and guideline on conducting a final project for Math 201.
 
-## Project Structure
+## 1. Project Structure
 
-## Examples
+## 2. Examples
 
 [Linear Model Project](project3.html)
 
@@ -22,9 +22,9 @@ Working with the happiness data
 
 Working with Bryant's sport team data
 
-## Data
+## 3. Data
 
-## Q&A
+## 4. Q&A
 
 1.  Is it required to use Excel for the statistical analysis the course?
 
