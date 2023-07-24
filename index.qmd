@@ -23,7 +23,7 @@ This webpage contains examples and guideline on conducting a final project for M
 | 5  |  Bryant's Sport       |      |   [William Zywiak](https://www.bryant.edu/academics/faculty/zywiak-william)      |
 
 
-## 3. Data
+## 3. Excel Tutorial
 
 ## 4. Q&A
 
