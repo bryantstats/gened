@@ -56,7 +56,7 @@ Use Qualtrics to design the survey.
 
 **Step 6**: Answer all the surveys on the announcement "Take ALL the following surveys (Project 1)" on March 28 in class. 
 
-**Step 7**:  Your full data should be available on March 29. Download the data. Open with Excel.  Copy three columns to Minitab. Create visualization and calculate p-values of the three tests. 
+**Step 7**:  Your full data should be available on March 29. 
 
 **Step 8**. Make a poster using the below template. 
 
@@ -69,8 +69,6 @@ Submit the follows to Canvas.
 - The Poster
 
 - The Dataset
-
-- Minitab screenshots of p-values of the three tests. 
 
 The deadline for all submission is April 4. 
 
@@ -90,11 +88,6 @@ The deadline for all submission is April 4.
 
 ## 4. Resources
 
-[Minitab](https://app.minitab.com/)
-
 [Qualtrics](https://bryant.yul1.qualtrics.com/login)
 
-[Visualization with Minitab]()
-
-[Hypothesis Testing with Minitab]()
 

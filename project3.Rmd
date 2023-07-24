@@ -18,7 +18,7 @@ output:
 knitr::opts_chunk$set(echo = TRUE, warning = FALSE, message = FALSE)
 ```
 
-In this project, we will practice building linear models to answer research questions. The population of the research is current freshman at Bryant University.  We will use Qualtrics to collect data and Minitab for the statistical analysis. 
+In this project, we will practice building linear models to answer research questions. The population of the research is current freshman at Bryant University.  We will use Qualtrics to collect data and Excel for the statistical analysis. 
 
 ## 1. Research Questions
 
@@ -68,9 +68,9 @@ Write a report following the below structure
 
 Let $y$ be your dependent variable, $x_1$ be your quantitative independent variable and $x_2$ be your binary independent variable. 
 
-1. Write the equation of the best fitted line when regressing $y$ on $x_1$. How much variance of $y$ can be explained by $x_1$?  Give an example of predicting $y$ given a value of $x_1$. Insert the Minitab screenshots to support your answers.
+1. Write the equation of the best fitted line when regressing $y$ on $x_1$. How much variance of $y$ can be explained by $x_1$?  Give an example of predicting $y$ given a value of $x_1$. Insert the screenshots to support your answers.
 
-2. Write the equations of the best fitted line when regressing $y$ on $x_1$ and $x_2$. How much variance of $y$ can be explained by $x_1$ and $x_2$? Insert the Minitab screenshots to support your answers. Is this model better than the model in 2?  Give an example of predicting $y$ given a value of $x_1$ and $x_2$. 
+2. Write the equations of the best fitted line when regressing $y$ on $x_1$ and $x_2$. How much variance of $y$ can be explained by $x_1$ and $x_2$? Insert the screenshots to support your answers. Is this model better than the model in 2?  Give an example of predicting $y$ given a value of $x_1$ and $x_2$. 
 
 #### Conclusion
 
