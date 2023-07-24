@@ -1,5 +1,5 @@
 ---
-title: "Math 201 - Final Project"
+title: "Development of Math 201"
 format: 
   html:
     toc: true
