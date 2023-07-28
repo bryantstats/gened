@@ -25,7 +25,9 @@ This webpage contains examples and guideline on conducting a project for Math 20
 
 ## 3. Excel Tutorial
 
-## 4. Q&A
+## 4. Data
+
+## 5. Q&A
 
 1.  Is it required to use Excel for the statistical analysis in the course?
 
