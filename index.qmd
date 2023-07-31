@@ -35,7 +35,7 @@ This webpage contains examples and guideline on conducting a project for Math 20
 
 ## 4. Data
 
-We list data that could be used for a project in table below. 
+We list below data that could be used for a project in table. 
 
 |   | Data | Download |UN Goals|
 |---|------|----------|----------|
