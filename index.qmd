@@ -34,6 +34,12 @@ This webpage contains examples and guideline on conducting a project for Math 20
 
 ## 4. Data
 
+|   | Data | Download |
+|---|------|----------|
+| 1 | World Happiness     |[Download](world-happiness-report-2021_main_vars.xls)           |
+| 2 | [Gender Pay Gap - Europe](https://www.kaggle.com/datasets/gianinamariapetrascu/gender-pay-gap-europe-2010-2021)      | [Download](data/pay_gap_Europe.xlsx)         |
+| 3 |      |          |
+
 ## 5. Q&A
 
 1.  Is it required to use Excel for the statistical analysis in the course?
