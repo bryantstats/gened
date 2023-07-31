@@ -21,6 +21,7 @@ This webpage contains examples and guideline on conducting a project for Math 20
 | 3   | [Linear Model Project](project3.html)                        | Collected by Students                             | [Son Nguyen](https://www.bryant.edu/academics/faculty/nguyen-son)             |
 | 4   | [Hypothesis Testing Project](project1.html)                  | Collected by Students                             | [Son Nguyen](https://www.bryant.edu/academics/faculty/nguyen-son)             |
 | 5   | Bryant's Sport                                               |                                                   | [William Zywiak](https://www.bryant.edu/academics/faculty/zywiak-william)     |
+: {.striped}
 
 ## 3. Excel Tutorial
 
@@ -39,6 +40,8 @@ This webpage contains examples and guideline on conducting a project for Math 20
 | 1 | World Happiness     |[Download](world-happiness-report-2021_main_vars.xls)           | Good Health and Well-Being|
 | 2 | [Gender Pay Gap - Europe](https://www.kaggle.com/datasets/gianinamariapetrascu/gender-pay-gap-europe-2010-2021)      | [Download](data/pay_gap_Europe.xlsx)         |Gender Equality|
 | 3 |      |          ||
+: {.striped .hover}
+
 
 ## 5. Q&A
 
