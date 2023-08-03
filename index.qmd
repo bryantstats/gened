@@ -14,7 +14,9 @@ This webpage contains examples and guideline on conducting a project for Math 20
 
 ## 1. Project Structure
 
-Although a typical statistical project contains  
+A statistical project is the process of answering a research question using statistical techniques and presenting the work in a written report.  Although the final products of a typical statistical project likely to contains a written part (a report or an article) and a presentation part (slides or poster), the instructors should have the academic freedom to design their own project. 
+
+The instructors can use this 
 
 ## 2. Examples
 
