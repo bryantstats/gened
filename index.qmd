@@ -14,7 +14,7 @@ Another aspect of the development is the computational software used for the cou
 
 ## 1. What is a statistical project?
 
-According to Amstats: *A statistical project is the process of answering a research question using statistical techniques and presenting the work in a written report* [Link](https://www.amstat.org/asa/files/pdfs/EDU-statproject.pdf).  
+According to Amstats: *A statistical project is the process of answering a research question using statistical techniques and presenting the work in a written report.* [Link](https://www.amstat.org/asa/files/pdfs/EDU-statproject.pdf).  
 
 Although the final products of a typical statistical project likely to contains a written part (a report or an article) and a presentation part (slides or poster), the instructors should have the academic freedom to design their own project for the class. 
 
