@@ -12,15 +12,17 @@ We believe that having the student working on a statistical project will satisfy
 
 This webpage contains examples and guideline on conducting a project for Math 201.
 
-## 1. Project Structure
+## 1. What is a statistical project?
 
-A statistical project is the process of answering a research question using statistical techniques and presenting the work in a written report.  Although the final products of a typical statistical project likely to contains a written part (a report or an article) and a presentation part (slides or poster), the instructors should have the academic freedom to design their own project. 
+`A statistical project is the process of answering a research question using statistical techniques and presenting the work in a written report` [Cited from Amstats](https://www.amstat.org/asa/files/pdfs/EDU-statproject.pdf).  
 
-The instructors can use this 
+Although the final products of a typical statistical project likely to contains a written part (a report or an article) and a presentation part (slides or poster), the instructors should have the academic freedom to design their own project for the class. 
+
+This NSF Grant contains guideline on how to conduct a research: [Discovery Learning Projects in Introductory Statistics](http://faculty.ung.edu/DJSpence/NSF/materials.html)
 
 ## 2. Examples
 
-To help you develop your own project, we list here a few examples that we think 
+To help you develop your own project, we list here a few examples
 
 |     | Project                                                      | Data                                              | Author                                                                        |
 |--------------|-------------------|---------------|-------------------------|
