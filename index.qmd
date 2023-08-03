@@ -20,7 +20,7 @@ Although the final products of a typical statistical project likely to contains 
 
 This NSF Grant discuss the benefit of projects in introductory statistic courses and also give guideline on how to conduct a research: [Discovery Learning Projects in Introductory Statistics](http://faculty.ung.edu/DJSpence/NSF/materials.html)
 
-## 2. Examples
+## 2. Project Examples
 
 To help you develop your own project, we list here a few examples.  If you have a research project to share, please let us know so that we can include it here. 
 
