@@ -8,21 +8,21 @@ editor: visual
 
 The new development is M201 is to address two goals: (1) The UN sustainability goals and (2) Bryant 2030's vision skill and learning goals, which can be found [here](gen_ed.pdf). 
 
-We believe that having the student working on a statistical project will satisfy these new requirements so we suggest the instructors to incorporate to their syllabus a project. We suggest that project should count for at least 10% of the total grades.  We are also encouraged to use Excel for as much as possible, if not all, the statistical computations of the course. 
+We believe that having the student working on a statistical project will satisfy these new requirements so we suggest the instructors to incorporate to their syllabus a project. We suggest that project should count for at least 10% of the total grades.  
 
-This webpage contains examples and guideline on conducting a project for Math 201.
+Another aspect of the development is the computational software used for the course.  To this end,  we are  encouraged to use Excel for as much as possible, if not all, the statistical computations of the course. 
 
 ## 1. What is a statistical project?
 
-`A statistical project is the process of answering a research question using statistical techniques and presenting the work in a written report` [Cited from Amstats](https://www.amstat.org/asa/files/pdfs/EDU-statproject.pdf).  
+According to Amstats: *A statistical project is the process of answering a research question using statistical techniques and presenting the work in a written report* [Link](https://www.amstat.org/asa/files/pdfs/EDU-statproject.pdf).  
 
 Although the final products of a typical statistical project likely to contains a written part (a report or an article) and a presentation part (slides or poster), the instructors should have the academic freedom to design their own project for the class. 
 
-This NSF Grant contains guideline on how to conduct a research: [Discovery Learning Projects in Introductory Statistics](http://faculty.ung.edu/DJSpence/NSF/materials.html)
+This NSF Grant discuss the benefit of projects in introductory statistic courses and also give guideline on how to conduct a research: [Discovery Learning Projects in Introductory Statistics](http://faculty.ung.edu/DJSpence/NSF/materials.html)
 
 ## 2. Examples
 
-To help you develop your own project, we list here a few examples
+To help you develop your own project, we list here a few examples.  If you have a research project to share, please let us know so that we can include it here. 
 
 |     | Project                                                      | Data                                              | Author                                                                        |
 |--------------|-------------------|---------------|-------------------------|
