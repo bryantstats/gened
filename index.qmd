@@ -38,13 +38,17 @@ To help you develop your own project, we list here a few examples.  If you have 
 
 ## 3. Excel Tutorial
 
--   Install Data Analysis Add-Ins: [Video](https://bryant.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=38955015-791d-4394-8f0c-b0500094adf2)
+One way to do statistics in Excel is to use the **Data Analysis Add-Ins**. We list a few tutorial videos here for your references. 
 
--   t-test:
+- [Install Add-In](https://bryant.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=38955015-791d-4394-8f0c-b0500094adf2).  
 
--   z-test:
+- [Descriptive statistics](https://www.youtube.com/watch?v=3F_V5alJubk&t=752s&ab_channel=CXOLearningAcademy). 
 
--   Linear Regression:
+- [Hypothesis Testing & Estimation](https://www.youtube.com/playlist?list=PLD3fYc0bAjC-l2bN1Ekuhte7BO-LXKi9c)
+
+
+- Regression: [1](https://www.youtube.com/watch?v=L_a8Z0BVjyM&t=80s&ab_channel=MonaSchraer), [2](https://www.youtube.com/watch?v=0lpfmFnlDHI&ab_channel=TobinPorterfield), [3](https://www.youtube.com/watch?v=9wX1a1J4WOI&ab_channel=StevenBradburn)
+
 
 ## 4. Data
 
