@@ -42,12 +42,12 @@ One way to do statistics in Excel is to use the **Data Analysis Add-Ins**. We li
 
 - [Install Add-In](https://bryant.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=38955015-791d-4394-8f0c-b0500094adf2).  
 
-- [Descriptive statistics](https://www.youtube.com/watch?v=3F_V5alJubk&t=752s&ab_channel=CXOLearningAcademy). 
+- [Descriptive statistics](https://youtu.be/3F_V5alJubk). 
 
 - [Hypothesis Testing & Estimation](https://www.youtube.com/playlist?list=PLD3fYc0bAjC-l2bN1Ekuhte7BO-LXKi9c)
 
 
-- Regression: [1](https://www.youtube.com/watch?v=L_a8Z0BVjyM&t=80s&ab_channel=MonaSchraer), [2](https://www.youtube.com/watch?v=0lpfmFnlDHI&ab_channel=TobinPorterfield), [3](https://www.youtube.com/watch?v=9wX1a1J4WOI&ab_channel=StevenBradburn)
+- Regression: [1](https://youtu.be/L_a8Z0BVjyM), [2](https://youtu.be/0lpfmFnlDHI), [3](https://youtu.be/9wX1a1J4WOI)
 
 
 ## 4. Data
