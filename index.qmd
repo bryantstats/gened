@@ -38,9 +38,9 @@ To help you develop your own project, we list here a few examples.  If you have 
 
 ## 3. Excel Tutorial
 
-One way to do statistics in Excel is to use the **Data Analysis Add-Ins**. We list a few tutorial videos here for your references. 
+One way to do statistics in Excel is to use the **Analysis ToolPak**. We list a few tutorial videos here for your references. 
 
-- [Install Add-In](https://bryant.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=38955015-791d-4394-8f0c-b0500094adf2).  
+- [Installation](https://bryant.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=38955015-791d-4394-8f0c-b0500094adf2).  
 
 - [Descriptive statistics](https://youtu.be/3F_V5alJubk). 
 
