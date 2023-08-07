@@ -34,9 +34,9 @@ To help you develop your own project, we list here a few examples. If you have a
 | 4   | [Hypothesis Testing Project](project1.html)                  | Collected by Students                             | [Son Nguyen](https://www.bryant.edu/academics/faculty/nguyen-son)             |
 | 5   | Bryant's Sport                                               |                                                   | [William Zywiak](https://www.bryant.edu/academics/faculty/zywiak-william)     |
 
-An example of a syllabus incorporated 
-
 : {.striped}
+
+An example of a syllabus incorporated a project can be found [here.](m201_syallabus.pdf)  In this syllabus, [project 2](PROJECT%20with%204%20phases%20sp23.pdf) is incorporated. 
 
 ## 3. Excel Tutorial
 
