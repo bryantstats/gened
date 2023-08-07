@@ -60,7 +60,7 @@ Use Qualtrics to design the survey.
 
 **Step 8**. Make a poster using the below template. 
 
-- [Sample Poster](sample_poster.pptx), [pdf](sample_poster.pdf)
+- [Sample Poster](sample_poster.pdf), [PowerPoint Version](sample_poster.pptx)
 
 ## 2. Submission
 
