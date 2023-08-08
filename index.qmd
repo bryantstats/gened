@@ -10,7 +10,7 @@ The new development of M201 is to address two goals: (1) The UN sustainability g
 
 We believe that having the student working on a statistical project will satisfy these new requirements so we ask that you incorporate a project to their syllabus. We also ask that the project should count for at least 10% of the total grades.
 
-Another aspect of the development is the computational software used for the course. To this end, we are encouraged to use Excel as the statistical software for the class.  Thus, Excel (along with calculators) should be used for as much as possible, if not all, the statistical computations of the course.
+Another aspect of the development is the computational software used for the course. To this end, we are encouraged to use Excel as the main statistical software for the class.  Thus, Excel (along with calculators) should be used for as much as possible, if not all, the statistical computations of the course.
 
 These changes of M201 are expected to be implemented in the Fall 2023. 
 
