@@ -16,7 +16,7 @@ These changes of M201 are expected to be implemented in the Fall 2023.
 
 ## 1. What is a statistical project?
 
-According to [Amstats](https://www.amstat.org/asa/files/pdfs/EDU-statproject.pdf):
+According to the [American Statistical Association ](https://www.amstat.org/asa/files/pdfs/EDU-statproject.pdf):
 
 > A statistical project is the process of answering a research question using statistical techniques and presenting the work in a written report.
 
@@ -31,7 +31,7 @@ For more on using projects in introductory statistics courses, we encourage you 
 To help you develop your own project, we list here a few examples. If you have a research project to share, please let us know so that we can include it here. Please notice that project 2 (Four-Phase Project) is a semester long project.
 
 |     | Project                                                      | Data                                              | Author                                                                        |
-|------------------|------------------|------------------|--------------------|
+|------------------|------------------|------------------|-------------------|
 | 1   | [World Happiness](happiness_M201_handout.pdf)                | [Data](world-happiness-report-2021_main_vars.xls) | [William Zywiak](https://www.bryant.edu/academics/faculty/zywiak-william)     |
 | 2   | [Four-Phase Project](PROJECT%20with%204%20phases%20sp23.pdf) | Collected by Students                             | [Nancy Beausoleil](https://www.bryant.edu/academics/faculty/beausoleil-nancy) |
 | 3   | [Linear Model Project](project3.html)                        | Collected by Students                             | [Son Nguyen](https://www.bryant.edu/academics/faculty/nguyen-son)             |
@@ -65,7 +65,7 @@ One way to do statistics in Excel is to use the [Analysis ToolPak](https://suppo
 We list below data that could be used for a project.
 
 |     | Data                                                                                                            | Download                                              | UN Goals                   |
-|-----------------|---------------------|-----------------|-----------------|
+|------------------|--------------------|------------------|------------------|
 | 1   | World Happiness                                                                                                 | [Download](world-happiness-report-2021_main_vars.xls) | Good Health and Well-Being |
 | 2   | [Gender Pay Gap - Europe](https://www.kaggle.com/datasets/gianinamariapetrascu/gender-pay-gap-europe-2010-2021) | [Download](data/pay_gap_Europe.xlsx)                  | Gender Equality            |
 | 3   |                                                                                                                 |                                                       |                            |
