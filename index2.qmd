@@ -1,0 +1,75 @@
+---
+title: "Development of Math 201"
+format: 
+  html:
+    toc: true
+editor: visual
+---
+
+The new development of M201 is to address two goals: (1) The UN sustainability goals and (2) Bryant 2030's vision skill and learning goals, which can be found [here](gen_ed.pdf).
+
+We believe that having the student working on a statistical project will satisfy these new requirements so we ask that you incorporate a project to your M201's syllabus. We also ask that the project should count for at least 10% of the total grades.
+
+Another aspect of the development is the computational software used for the course. To this end, we are encouraged to use Excel for the class. Thus, we ask that you use Excel as much as possible, if not 100%, for the statistical computations required software.
+
+These changes of M201 are expected to be implemented in the Fall 2023.
+
+## 1. What is a statistical project?
+
+According to the [American Statistical Association](https://www.amstat.org/asa/files/pdfs/EDU-statproject.pdf):
+
+> A statistical project is the process of answering a research question using statistical techniques and presenting the work in a written report.
+
+Although the final products of a typical statistical project likely to contain a written part (a report or an article) and a presentation part (slides or poster), these products are not required and you should have the academic freedom to design your own project for their classes. The data used for the project might be existing available datasets or might be collected by the students using surveys. The project could be a semester long project or shorter.
+
+For more on using projects in introductory statistics courses, we encourage you to study an NSF project in the below link. It discusses the benefit of using projects in introductory statistic courses and also gives guidelines to both instructors and students on how to do a project in a class:
+
+[Discovery Learning Projects in Introductory Statistics](http://faculty.ung.edu/DJSpence/NSF/materials.html)
+
+## 2. Project Examples
+
+To help you develop your own project, we list here a few examples. If you have a research project to share, please let us know so that we can include it here. Please notice that project 2 (Four-Phase Project) is a semester long project.
+
+|     | Project                                                      | Data                                              | Author                                                                        |
+|--------------|-------------------|---------------|-------------------------|
+| 1   | [World Happiness](happiness_M201_handout.pdf)                | [Data](world-happiness-report-2021_main_vars.xls) | [William Zywiak](https://www.bryant.edu/academics/faculty/zywiak-william)     |
+| 2   | [Four-Phase Project](PROJECT%20with%204%20phases%20sp23.pdf) | Collected by Students                             | [Nancy Beausoleil](https://www.bryant.edu/academics/faculty/beausoleil-nancy) |
+
+
+: {.striped}
+
+## 3. Syllabus Examples
+
+- [Syllabus 1](syllabus.pdf) by William Zywiak. This syllabus incorporates the World Happiness project listed in the previous section. 
+
+- 
+
+## 4. Excel Tutorial
+
+One way to do statistics in Excel is to use the [Analysis ToolPak](https://support.microsoft.com/en-gb/office/use-the-analysis-toolpak-to-perform-complex-data-analysis-6c67ccf0-f4a9-487c-8dec-bdb5a2cefab6). We list a few tutorial videos here for your references.
+
+-   [Installation](https://bryant.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=38955015-791d-4394-8f0c-b0500094adf2).
+
+-   [Descriptive statistics](https://youtu.be/3F_V5alJubk).
+
+-   [Hypothesis Testing & Estimation](https://www.youtube.com/playlist?list=PLD3fYc0bAjC-l2bN1Ekuhte7BO-LXKi9c)
+
+-   Regression: [1](https://youtu.be/L_a8Z0BVjyM), [2](https://youtu.be/0lpfmFnlDHI), [3](https://youtu.be/9wX1a1J4WOI)
+
+## 5. Data
+
+We list below data that could be used for a project.
+
+|     | Data                                                                                                            | Download                                              | UN Goals                   |
+|-------------|---------------------------------|--------------|-------------|
+| 1   | World Happiness                                                                                                 | [Download](world-happiness-report-2021_main_vars.xls) | Good Health and Well-Being |
+| 2   | [Gender Pay Gap - Europe](https://www.kaggle.com/datasets/gianinamariapetrascu/gender-pay-gap-europe-2010-2021) | [Download](data/pay_gap_Europe.xlsx)                  | Gender Equality            |
+| 3   |                                                                                                                 |                                                       |                            |
+
+: {.striped .hover}
+
+## 6. Q&A
+
+1.  Is it required to use Excel for the statistical analysis in the course?
+
+    -   *We are encouraged to use more Excel on the Gen-ed Math classes. Using Excel in both M110 and M201 will help the student consistently learn and strengthen their Excel skills.*
