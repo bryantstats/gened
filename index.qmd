@@ -9,7 +9,7 @@ editor: visual
 The new development of M201 is to address two goals: (1) The UN sustainability goals and (2) Bryant 2030's vision skill and learning goals, which can be found [here](gen_ed.pdf).
 
 We ask that you incorporate at least a project or a case study fulfilling the Sustainable Development Goals (SDG) requirement
-to your M201's syllabus. We also ask that the projects/case studies should count for at least 10% of the total grades.
+to your M201's syllabus. We also ask that the projects/case studies should count for at least 10% of the total grades. The data used for the project/case study might be existing available datasets or might be collected by the students using surveys. The project/case study could be a semester long project or shorter.
 
 Another aspect of the development is the computational software used for the course. To this end, we are encouraged to use Excel for the class. Thus, we ask that you use Excel as much as possible, if not 100%, for the statistical computations required software.
 
@@ -63,8 +63,6 @@ We list below data that could be used for a project.
 According to the [American Statistical Association](https://www.amstat.org/asa/files/pdfs/EDU-statproject.pdf):
 
 > A statistical project is the process of answering a research question using statistical techniques and presenting the work in a written report.
-
-Although the final products of a typical statistical project likely to contain a written part (a report or an article) and a presentation part (slides or poster), these products are not required and you should have the academic freedom to design your own project for their classes. The data used for the project might be existing available datasets or might be collected by the students using surveys. The project could be a semester long project or shorter.
 
 For more on using projects in introductory statistics courses, we encourage you to study an NSF project in the below link. It discusses the benefit of using projects in introductory statistic courses and also gives guidelines to both instructors and students on how to do a project in a class:
 
