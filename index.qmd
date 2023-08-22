@@ -64,7 +64,7 @@ According to the [American Statistical Association](https://www.amstat.org/asa/f
 
 > A statistical project is the process of answering a research question using statistical techniques and presenting the work in a written report.
 
-For more on using projects in introductory statistics courses, we encourage you to study an NSF project in the below link. It discusses the benefit of using projects in introductory statistic courses and also gives guidelines to both instructors and students on how to do a project in a class:
+For more on using projects in introductory statistics courses:
 
 [Discovery Learning Projects in Introductory Statistics](http://faculty.ung.edu/DJSpence/NSF/materials.html)
 
