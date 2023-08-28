@@ -30,9 +30,9 @@ To help you develop your own project, we list here a few examples. If you have a
 
 ## 2. Syllabus Examples
 
--   [Syllabus 1](MATH201_D_Excel_syllabus_Fall_2023.pdf) by William Zywiak. This syllabus incorporates the World Happiness project listed in the previous section.
+-   Syllabus 1: [Word](2023_Syllabus 201.DOC), [pdf](MATH201_D_Excel_syllabus_Fall_2023.pdf) by William Zywiak. This syllabus incorporates the World Happiness project listed in the previous section.
 
--   [Syllabus 2](2023_Syllabus 201_JB.pdf) by Jim Bishop
+-   Syllabus 2: [Word](MATH201_D_Excel_syllabus_Fall_2023.docx), [pdf](2023_Syllabus 201_JB.pdf) by Jim Bishop
 
 ## 3. Excel Tutorial
 
