@@ -8,12 +8,28 @@ editor: visual
 
 The new development of M201 is to address two goals: (1) The UN sustainability goals and (2) Bryant 2030's vision skill and learning goals, which can be found [here](gen_ed.pdf).
 
+<!--
+
 We ask that you incorporate at least a project or a case study fulfilling the [Sustainable Development Goals](https://www.globalgoals.org/goals/) (SDG) requirement
 to your M201's syllabus. We also ask that the projects/case studies should count for at least 10% of the total grades. The data used for the project/case study might be existing available datasets or might be collected by the students using surveys. The project/case study could be a semester long project or shorter.
 
 Another aspect of the development is the computational software used for the course. To this end, we are encouraged to use Excel for the class. Thus, we ask that you use Excel as much as possible, if not 100%, for the statistical computations required software.
 
-These changes of M201 are expected to be implemented in the Fall 2023.
+-->
+
+For the Fall 2023 semester, we would like to set realistic minimums for the content change.  After each semester, we would like to re-evaluate the new course material and consider stronger minimum requirements for SDG.  Also, having at least one semester of each course under our belt, we can more confidently assess the possibility of having a common project across all classes.
+
+Specifically, we would like to
+
+- Incorporate at least one of the six SDG goals that are considered appropriate for the new math GenEd
+
+- Incorporate at least one case study (project)
+
+- At a minimum, introduce statistics using Excel (Data Analysis functions).  Excel need not be used exclusively.
+
+- An effort should be made to include regression analysis
+
+The four bullets listed above are a change from the old M201's requirements.  The main course content change is a shift toward more applied statistics in line with the SDG’s, and the use of Excel.  The theory change is minor in terms of topics, mainly to incorporate regression and our syllabus examples show a couple of ways to achieve this by dropping some relatively minor topics (chi-squared testing, combination/permutations,…).  
 
 
 
