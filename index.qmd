@@ -30,7 +30,7 @@ Specifically, in the Fall 2023, we would like you to
     - [SDG 9](https://www.globalgoals.org/goals/9-industry-innovation-and-infrastructure/): Industry, Innovation, and Infrastructure	
     - [SDG 11](https://www.globalgoals.org/goals/11-sustainable-cities-and-communities/): Sustainable Cities and Communities
 
-- At a minimum, introduce statistics using Excel (Data Analysis functions).  Excel need not be used exclusively.
+- At a minimum, introduce statistics using Excel (Data Analysis functions).  Excel needs not be used exclusively.
 
 - Make an effort to include regression analysis
 
@@ -93,4 +93,4 @@ For more on using projects in introductory statistics courses:
 
 1.  Is it required to use Excel for the statistical analysis in the course?
 
-    -   *We are encouraged to use more Excel on the Gen-ed Math classes. Using Excel in both M110 and M201 will help the student consistently learn and strengthen their Excel skills.* For the fall 2023, Excel need not be used exclusively.
+    -   *We are encouraged to use more Excel on the Gen-ed Math classes. Using Excel in both M110 and M201 will help the student consistently learn and strengthen their Excel skills.* For the fall 2023, Excel needs not be used exclusively.
