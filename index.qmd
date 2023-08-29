@@ -23,12 +23,12 @@ Specifically, in the Fall 2023, we would like to
 
 - Incorporate at least one of the below six SDG in a case study/project.  The incorporated case study/project should count for at least 10% of the total grade. 
  
-    - SDG 3: Good Health & wellbeing	
-    - SDG 4: Quality Education	
-    - SDG 8: Decent Work and Economic Growth
-    - SDG 7: Affordable and Clean Energy	
-    - SDG 9: Industry, Innovation, and Infrastructure	
-    - SDG 11: Sustainable Cities and Communities
+    - [SDG 3](https://www.globalgoals.org/goals/3-good-health-and-well-being/): Good Health & wellbeing	
+    - [SDG 4](https://www.globalgoals.org/goals/4-quality-education/): Quality Education	
+    - [SDG 8](https://www.globalgoals.org/goals/8-decent-work-and-economic-growth/): Decent Work and Economic Growth
+    - [SDG 7](https://www.globalgoals.org/goals/7-affordable-and-clean-energy/): Affordable and Clean Energy	
+    - [SDG 9](https://www.globalgoals.org/goals/9-industry-innovation-and-infrastructure/): Industry, Innovation, and Infrastructure	
+    - [SDG 11](https://www.globalgoals.org/goals/11-sustainable-cities-and-communities/): Sustainable Cities and Communities
 
 - At a minimum, introduce statistics using Excel (Data Analysis functions).  Excel need not be used exclusively.
 
