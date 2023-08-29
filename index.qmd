@@ -34,7 +34,7 @@ Specifically, in the Fall 2023, we would like you to
 
 - Make an effort to include regression analysis
 
-The four bullets listed above are a change from the old M201's requirements.  The main course content change is a shift toward more applied statistics in line with the SDG’s, and the use of Excel.  The theory change is minor in terms of topics, mainly to incorporate regression and our syllabus examples (below in section 1 and 2) show a couple of ways to achieve this by dropping some relatively minor topics (chi-squared testing, combination/permutations,…).  
+The bullets listed above are a change from the old M201's requirements.  The main course content change is a shift toward more applied statistics in line with the SDG’s, and the use of Excel.  The theory change is minor in terms of topics, mainly to incorporate regression and our syllabus examples (below in section 1 and 2) show a couple of ways to achieve this by dropping some relatively minor topics (chi-squared testing, combination/permutations,…).  
 
 
 
@@ -93,4 +93,4 @@ For more on using projects in introductory statistics courses:
 
 1.  Is it required to use Excel for the statistical analysis in the course?
 
-    -   *We are encouraged to use more Excel on the Gen-ed Math classes. Using Excel in both M110 and M201 will help the student consistently learn and strengthen their Excel skills.*
+    -   *We are encouraged to use more Excel on the Gen-ed Math classes. Using Excel in both M110 and M201 will help the student consistently learn and strengthen their Excel skills.* For the fall 2023, Excel need not be used exclusively.
