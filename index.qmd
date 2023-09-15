@@ -6,8 +6,9 @@ format:
 editor: visual
 ---
 
-The new development of M201 is to address two goals: (1) The UN [Sustainable Development Goals](https://www.globalgoals.org/goals/) (SDG)  and (2) Bryant 2030's vision skill and learning goals, which can be found [here](gen_ed.pdf).
+The new development of M201 is to address two goals: (1) The UN [Sustainable Development Goals](https://www.globalgoals.org/goals/) (SDG) and (2) Bryant 2030's vision skill and learning goals, which can be found [here](gen_ed.pdf).
 
+```{=html}
 <!--
 
 We ask that you incorporate at least a project or a case study fulfilling the [Sustainable Development Goals](https://www.globalgoals.org/goals/) (SDG) requirement
@@ -16,44 +17,42 @@ to your M201's syllabus. We also ask that the projects/case studies should count
 Another aspect of the development is the computational software used for the course. To this end, we are encouraged to use Excel for the class. Thus, we ask that you use Excel as much as possible, if not 100%, for the statistical computations required software.
 
 -->
-
-For the Fall 2023 semester, we would like to set realistic minimums for the content change.  After each semester, we would like to re-evaluate the new course material and consider stronger minimum requirements for SDG.  Also, having at least one semester of each course under our belt, we can more confidently assess the possibility of having a common project across all classes.
+```
+For the Fall 2023 semester, we would like to set realistic minimums for the content change. After each semester, we would like to re-evaluate the new course material and consider stronger minimum requirements for SDG. Also, having at least one semester of each course under our belt, we can more confidently assess the possibility of having a common project across all classes.
 
 Specifically, in the Fall 2023, we would like you to
 
-- Incorporate at least one of the below six SDG in a case study/project.  The incorporated case study/project should count for at least 10% of the total grade. 
- 
-    - [SDG 3](https://www.globalgoals.org/goals/3-good-health-and-well-being/): Good Health & wellbeing	
-    - [SDG 4](https://www.globalgoals.org/goals/4-quality-education/): Quality Education	
-    - [SDG 8](https://www.globalgoals.org/goals/8-decent-work-and-economic-growth/): Decent Work and Economic Growth
-    - [SDG 7](https://www.globalgoals.org/goals/7-affordable-and-clean-energy/): Affordable and Clean Energy	
-    - [SDG 9](https://www.globalgoals.org/goals/9-industry-innovation-and-infrastructure/): Industry, Innovation, and Infrastructure	
-    - [SDG 11](https://www.globalgoals.org/goals/11-sustainable-cities-and-communities/): Sustainable Cities and Communities
+-   Incorporate at least one of the below six SDG in a case study/project. The incorporated case study/project should count for at least 10% of the total grade.
 
-- At a minimum, introduce statistics using Excel (Data Analysis functions).  Excel needs not be used exclusively.
+    -   [SDG 3](https://www.globalgoals.org/goals/3-good-health-and-well-being/): Good Health & wellbeing
+    -   [SDG 4](https://www.globalgoals.org/goals/4-quality-education/): Quality Education\
+    -   [SDG 8](https://www.globalgoals.org/goals/8-decent-work-and-economic-growth/): Decent Work and Economic Growth
+    -   [SDG 7](https://www.globalgoals.org/goals/7-affordable-and-clean-energy/): Affordable and Clean Energy\
+    -   [SDG 9](https://www.globalgoals.org/goals/9-industry-innovation-and-infrastructure/): Industry, Innovation, and Infrastructure\
+    -   [SDG 11](https://www.globalgoals.org/goals/11-sustainable-cities-and-communities/): Sustainable Cities and Communities
 
-- Make an effort to include regression analysis
+-   At a minimum, introduce statistics using Excel (Data Analysis functions). Excel needs not be used exclusively.
 
-The bullets listed above are a change from the old M201's requirements.  The main course content change is a shift toward more applied statistics in line with the SDG’s, and the use of Excel.  The theory change is minor in terms of topics, mainly to incorporate regression and our syllabus examples (below in section 1 and 2) show a couple of ways to achieve this by dropping some relatively minor topics (chi-squared testing, combination/permutations,…).  
+-   Make an effort to include regression analysis
 
-
+The bullets listed above are a change from the old M201's requirements. The main course content change is a shift toward more applied statistics in line with the SDG's, and the use of Excel. The theory change is minor in terms of topics, mainly to incorporate regression and our syllabus examples (below in section 1 and 2) show a couple of ways to achieve this by dropping some relatively minor topics (chi-squared testing, combination/permutations,...).
 
 ## 1. Project/Case Study Examples
 
 To help you develop your own project, we list here a few examples. If you have a research project to share, please let us know so that we can include it here. Please notice that project 2 (Four-Phase Project) is a semester long project.
 
-|     | Project | Data                 | SDG                             | Author |
-|----------------|-----------------|----------------|-----------------------|-----------------------|
-| 1   | [World Happiness](happiness_M201_handout.pdf)                | [Data](world-happiness-report-2021_main_vars.xls) | Good Health & wellbeing |[William Zywiak](https://www.bryant.edu/academics/faculty/zywiak-william)     |
-| 2   | [Four-Phase Project](PROJECT%20with%204%20phases%20sp23.pdf) | Collected by Students                             || [Nancy Beausoleil](https://www.bryant.edu/academics/faculty/beausoleil-nancy) |
+|     | Project                                                      | Data                                              | SDG                     | Author                                                                        |
+|-------------|---------------|-------------|-------------|--------------------|
+| 1   | [World Happiness](happiness_M201_handout.pdf)                | [Data](world-happiness-report-2021_main_vars.xls) | Good Health & wellbeing | [William Zywiak](https://www.bryant.edu/academics/faculty/zywiak-william)     |
+| 2   | [Four-Phase Project](PROJECT%20with%204%20phases%20sp23.pdf) | Collected by Students                             |                         | [Nancy Beausoleil](https://www.bryant.edu/academics/faculty/beausoleil-nancy) |
 
 : {.striped}
 
 ## 2. Syllabus Examples
 
--   Syllabus 1: [Word](2023_Syllabus 201.DOC), [pdf](MATH201_D_Excel_syllabus_Fall_2023.pdf) by William Zywiak. This syllabus incorporates the World Happiness project listed in the previous section.
+-   Syllabus 1: [Word](2023_Syllabus%20201.DOC), [pdf](MATH201_D_Excel_syllabus_Fall_2023.pdf) by William Zywiak. This syllabus incorporates the World Happiness project listed in the previous section.
 
--   Syllabus 2: [Word](MATH201_D_Excel_syllabus_Fall_2023.docx), [pdf](2023_Syllabus 201_JB.pdf) by Jim Bishop
+-   Syllabus 2: [Word](MATH201_D_Excel_syllabus_Fall_2023.docx), [pdf](2023_Syllabus%20201_JB.pdf) by Jim Bishop
 
 ## 3. Excel Tutorial
 
@@ -71,8 +70,8 @@ One way to do statistics in Excel is to use the [Analysis ToolPak](https://suppo
 
 We list below data that could be used for a project.
 
-|     | Data                                                                                                            | Download                                              | SDG                  |
-|---------------|-----------------------------|---------------|---------------|
+|     | Data                                                                                                            | Download                                              | SDG                        |
+|-------------|---------------------------------|--------------|-------------|
 | 1   | World Happiness                                                                                                 | [Download](world-happiness-report-2021_main_vars.xls) | Good Health and Well-Being |
 | 2   | [Gender Pay Gap - Europe](https://www.kaggle.com/datasets/gianinamariapetrascu/gender-pay-gap-europe-2010-2021) | [Download](data/pay_gap_Europe.xlsx)                  | Gender Equality            |
 | 3   |                                                                                                                 |                                                       |                            |
